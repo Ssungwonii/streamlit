@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-st.title('데이터프레임 튜토리얼')
+st.title('스트림릿 디플로이 성공?')
 
 # DataFrame 생성
 dataframe = pd.DataFrame({
